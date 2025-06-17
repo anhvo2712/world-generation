@@ -18,7 +18,9 @@ The following options are available:
 
 • Press 'Q' or 'q' to quit the world.
 
-After selecting a new world, another window will be displayed, asking the user to enter a seed. The seed is a positive number up to 9,223,372,036,854,775,807 and is used by the random generator to generate a unique game world. If you enter the same seed, an identical world will be generated.<img width="457" alt="Screenshot 2025-06-16 at 10 34 12 PM" src="https://github.com/user-attachments/assets/fc529224-c634-43b0-ba77-f8beb7ca105b" />
+After selecting a new world, another window will be displayed, asking the user to enter a seed. The seed is a positive number up to 9,223,372,036,854,775,807 and is used by the random generator to generate a unique game world. If you enter the same seed, an identical world will be generated.
+
+<img width="457" alt="Screenshot 2025-06-16 at 10 34 12 PM" src="https://github.com/user-attachments/assets/fc529224-c634-43b0-ba77-f8beb7ca105b" />
 
 
 
